@@ -137,21 +137,23 @@ As ações de contenção serão realizadas somente em ambientes próprios ou au
 ## 8. Estrutura planejada do repositório
 
 ```text
-mini-soc-lab/
+mini-soc/
 ├── README.md
 ├── docs/
 │   ├── arquitetura.md
-│   ├── metodologia.md
-│   └── relatorios/
-│       ├── incidente-001.md
-│       ├── incidente-002.md
-│       └── incidente-003.md
+│   └── procedimentos.md
+├── detections/
+│   └── regras-personalizadas/
 ├── scripts/
-│   ├── log_analyzer.py
-│   └── requirements.txt
-├── samples/
-│   └── README.md
-└── screenshots/
+│   └── analisar_alertas.py
+├── investigations/
+│   ├── 001-falhas-autenticacao/
+│   │   └── relatorio.md
+│   ├── 002-integridade-arquivos/
+│   │   └── relatorio.md
+│   └── 003-atividade-suspeita/
+│       └── relatorio.md
+└── evidence/
     └── README.md
 ```
 
