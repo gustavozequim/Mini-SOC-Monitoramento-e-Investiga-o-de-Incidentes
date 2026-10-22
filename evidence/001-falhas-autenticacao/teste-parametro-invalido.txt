@@ -1,0 +1,4 @@
+usage: analisar_alertas.py [-h] [--arquivo ARQUIVO] [--limite LIMITE]
+                           [--janela-minutos JANELA_MINUTOS]
+analisar_alertas.py: error: --janela-minutos deve ser maior ou igual a 1.
+Código de saída: 2

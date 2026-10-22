@@ -1,0 +1,13 @@
+=== Ambiente de execução ===
+Data UTC: 2026-10-22T00:03:08Z
+Python 3.14.8
+
+=== Dataset ===
+10 investigations/001-falhas-autenticacao/eventos_auth.jsonl
+e5ca0c0d7bc292f46d656a68826d23e7780c6b830113fd6174d2968906182384  investigations/001-falhas-autenticacao/eventos_auth.jsonl
+
+=== Script analisador ===
+13970e08a80200fb1b604ce5ef3834603d2e6d66c326f07564361b411c8c821d  scripts/analisar_alertas.py
+
+=== Relatório ===
+fefc04e97512b70c7b185a1cce1a90ce65926db9c72238fc3645b2639eab886a  investigations/001-falhas-autenticacao/relatorio.md

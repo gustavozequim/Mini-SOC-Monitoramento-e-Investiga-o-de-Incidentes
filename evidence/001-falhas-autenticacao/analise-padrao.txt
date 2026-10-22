@@ -1,0 +1,18 @@
+=== Mini-SOC | Análise de autenticação ===
+Arquivo: investigations/001-falhas-autenticacao/eventos_auth.jsonl
+Eventos válidos: 10
+Registros inválidos: 0
+
+--- Total de falhas por IP (arquivo inteiro) ---
+192.0.2.10: 5
+192.0.2.20: 2
+192.0.2.30: 1
+
+--- Total de falhas por usuário (arquivo inteiro) ---
+ana: 5
+bruno: 2
+carla: 1
+
+--- Alertas: limite 5, janela 5 minuto(s) ---
+[ALERTA] MULTIPLAS_FALHAS_POR_IP | alvo=192.0.2.10 | falhas_na_janela=5 | limite=5 | inicio=2026-10-21T09:00:00+00:00 | fim=2026-10-21T09:00:48+00:00
+[ALERTA] MULTIPLAS_FALHAS_POR_USUARIO | alvo=ana | falhas_na_janela=5 | limite=5 | inicio=2026-10-21T09:00:00+00:00 | fim=2026-10-21T09:00:48+00:00
