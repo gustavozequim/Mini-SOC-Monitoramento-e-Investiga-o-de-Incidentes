@@ -1,0 +1,5 @@
+# Configuracao ficticia de servico
+nome=servico-lab
+porta=8080
+status=ativo
+status=alterado_no_teste

@@ -1,0 +1,7 @@
+=== Verificacao de integridade ===
+Arquivos atuais: 3
+Arquivos na linha de base: 3
+Novos: 0
+Removidos: 0
+Modificados: 0
+RESULTADO: NENHUMA ALTERACAO DETECTADA

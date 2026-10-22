@@ -1,0 +1,4 @@
+# Configuracao sintetica de laboratorio
+ambiente=lab
+monitoramento=ativo
+nivel_log=info

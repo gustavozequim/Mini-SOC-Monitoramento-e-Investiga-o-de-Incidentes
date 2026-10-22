@@ -1,0 +1,4 @@
+# Politica ficticia de acesso
+autenticacao=obrigatoria
+tentativas_maximas=5
+bloqueio_automatico=sim

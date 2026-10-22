@@ -1,0 +1,9 @@
+=== Verificacao de integridade ===
+Arquivos atuais: 2
+Arquivos na linha de base: 3
+Novos: 0
+Removidos: 1
+Modificados: 1
+[REMOVIDO] politica_acesso.txt
+[MODIFICADO] servico.txt
+RESULTADO: ALTERACOES DETECTADAS

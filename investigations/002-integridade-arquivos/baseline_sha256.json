@@ -1,0 +1,8 @@
+{
+  "algoritmo": "SHA-256",
+  "arquivos": {
+    "configuracao.txt": "dcc80cd572ea898daafc4e1ef3aa76450b9809decd3f066a23d6072b2185758e",
+    "politica_acesso.txt": "44258d48ff1a48e707957ce60fd80b0802819ed0bd3200e4e44265cd270fffdd",
+    "servico.txt": "df7960ce94c2ba09b63d24e3ad56813c3f6243af4266f055cf1bb004eae9fb43"
+  }
+}
