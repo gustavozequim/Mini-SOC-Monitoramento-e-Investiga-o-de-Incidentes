@@ -1,0 +1,44 @@
+========== ANÁLISE DE EVENTOS DE REDE ==========
+Arquivo: investigations/003-atividade-suspeita/eventos_rede.jsonl
+Eventos válidos: 10
+Eventos inválidos: 0
+
+========== CONEXÕES POR PROCESSO ==========
+curl: 1
+firefox: 3
+python3: 3
+ssh: 1
+systemd-resolved: 2
+
+========== CONEXÕES POR PORTA ==========
+22: 1
+53: 2
+443: 3
+4444: 3
+9001: 1
+
+========== ALERTAS ==========
+
+Alerta 1 — NET-001
+Prioridade: MEDIA
+Host: linux-lab
+Processo: curl
+Ação: allowed
+Destino: 198.51.100.77:9001
+Protocolo: TCP
+Conexões observadas: 1
+Motivo: Conexão com porta previamente definida para revisão (9001).
+
+Alerta 2 — NET-001/NET-002
+Prioridade: MEDIA
+Host: linux-lab
+Processo: python3
+Ação: allowed
+Destino: 203.0.113.50:4444
+Protocolo: TCP
+Conexões observadas: 3
+Motivo: Conexão com porta previamente definida para revisão (4444). 3 conexões para o mesmo destino pelo mesmo processo.
+
+========== RESULTADO ==========
+Total de alertas: 2
+Código de saída: 1

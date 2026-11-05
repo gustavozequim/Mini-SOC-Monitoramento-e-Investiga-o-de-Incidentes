@@ -1,0 +1,5 @@
+IPv6 expandido: 2001:db8::1
+IPv6 abreviado: 2001:db8::1
+Endereços equivalentes: True
+
+TESTE APROVADO

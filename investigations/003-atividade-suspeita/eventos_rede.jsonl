@@ -1,0 +1,10 @@
+{"timestamp":"2026-10-22T10:00:00Z","hostname":"linux-lab","process":"firefox","destination_ip":"198.51.100.10","destination_port":443,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:00:15Z","hostname":"linux-lab","process":"systemd-resolved","destination_ip":"192.0.2.53","destination_port":53,"protocol":"UDP","action":"allowed"}
+{"timestamp":"2026-10-22T10:01:00Z","hostname":"linux-lab","process":"firefox","destination_ip":"198.51.100.10","destination_port":443,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:02:10Z","hostname":"linux-lab","process":"ssh","destination_ip":"203.0.113.20","destination_port":22,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:03:00Z","hostname":"linux-lab","process":"python3","destination_ip":"203.0.113.50","destination_port":4444,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:03:20Z","hostname":"linux-lab","process":"python3","destination_ip":"203.0.113.50","destination_port":4444,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:03:40Z","hostname":"linux-lab","process":"python3","destination_ip":"203.0.113.50","destination_port":4444,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:04:05Z","hostname":"linux-lab","process":"curl","destination_ip":"198.51.100.77","destination_port":9001,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:05:00Z","hostname":"linux-lab","process":"firefox","destination_ip":"198.51.100.10","destination_port":443,"protocol":"TCP","action":"allowed"}
+{"timestamp":"2026-10-22T10:06:00Z","hostname":"linux-lab","process":"systemd-resolved","destination_ip":"192.0.2.53","destination_port":53,"protocol":"UDP","action":"allowed"}

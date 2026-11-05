@@ -1,0 +1,7 @@
+IPv4 válido: APROVADO
+IP numérico: APROVADO
+IP vazio: APROVADO
+IP inválido: APROVADO
+
+Testes aprovados: 4/4
+Código de saída: 0

@@ -1,0 +1,4 @@
+Quantidade de alertas: 3
+Resultado esperado: 3 alertas
+Teste: APROVADO
+Código de saída: 0

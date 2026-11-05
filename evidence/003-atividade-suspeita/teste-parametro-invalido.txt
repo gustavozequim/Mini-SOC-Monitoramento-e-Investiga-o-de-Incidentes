@@ -1,0 +1,4 @@
+usage: analisar_rede.py [-h] [--arquivo ARQUIVO]
+                        [--limite-repeticoes LIMITE_REPETICOES]
+analisar_rede.py: error: --limite-repeticoes precisa ser maior que zero.
+Código de saída: 2
